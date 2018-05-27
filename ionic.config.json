@@ -1,0 +1,8 @@
+{
+  "name": "Rail",
+  "app_id": "18b01b01",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
